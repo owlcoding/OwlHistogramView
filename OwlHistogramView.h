@@ -2,7 +2,7 @@
 //  OwlHistogramView.h
 //
 //  Created by Pawel Maczewski on 27/11/11.
-//  Copyright (c) 2011 OwlCoding.com. All rights reserved.
+//  Copyright (c) 2011 OwlCoding.com. License is granted to use/change but with future distribution with at least this free license.
 //
 
 #import <UIKit/UIKit.h>
